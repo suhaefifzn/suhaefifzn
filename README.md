@@ -1,10 +1,10 @@
 ```
-> neofetch
+$ neofetch
 ```
 
 <img align="left" src="https://avatars.githubusercontent.com/u/110586236?v=4" alt="Blake Belladonna From RWBY Anime" width="320"/> 
 
-```csharp
+```ruby
 suhaefifzn@github
 -------------------------
 OS: Ubuntu 22.04.1 LTS x86_64
