@@ -22,7 +22,7 @@ Discord: Xerxes#6694
 </p>
 
 ```javascript
-const projects: ['Portfolio V2', 'My First Discord Bot', 'To Do App'];
+const projects: ['Portfolio V2', 'Discord Bot', 'To Do App'];
 ```
 
 <br>
