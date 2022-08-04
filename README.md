@@ -1,8 +1,8 @@
-```zsh
+```
 > neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/110586236?v=4" alt="Blake Belladonna From RWBY Anime" width="325"/> 
+<img align="left" src="https://avatars.githubusercontent.com/u/110586236?v=4" alt="Blake Belladonna From RWBY Anime" width="320"/> 
 
 ```csharp
 suhaefifzn@github
