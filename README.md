@@ -22,10 +22,9 @@ Discord: Xerxes#6694
 </p>
 
 ```javascript
-Upcoming projects: Portfolio V2, My First Discord Bot, and To Do App.
+const projects: ['Portfolio V2', 'My First Discord Bot', 'To Do App'];
 ```
 
-<br>
 <br>
 Second account <a href="https://github.com/suhaefi" target="_blank">@suhaefi</a>
 <br>
