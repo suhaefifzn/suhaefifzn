@@ -12,9 +12,9 @@ Shell: bash 5.1.16
 Pronouns: He/Him
 Location: Indonesia
 Languages: HTML, CSS
-Learning: JavaScript Modern, Node.js
-Hobbies: Watching Anime, Reading Novel, 
-          Drawing Anime Characters
+Learning: JavaScript (ES6), Node.js
+Hobbies: Watch Anime, Read Novel, 
+         Redraw Anime Characters
 Discord: Xerxes#6694
 ```
 <p align="left">
