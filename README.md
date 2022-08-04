@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://static.zerochan.net/Blake.Belladonna.full.2409076.png" alt="Blake Belladonna From RWBY Anime" width="300" > 
+<img align="left" src="https://static.zerochan.net/Blake.Belladonna.full.2409076.png" alt="Blake Belladonna From RWBY Anime" width="280" > 
 
 ```ruby
 suhaefifzn@github
@@ -25,7 +25,6 @@ Discord: Xerxes#6694
 const projects: ['Portfolio V2', 'Discord Bot', 'To Do App'];
 ```
 
-<br>
 <br>
 Second account <a href="https://github.com/suhaefi" target="_blank">@suhaefi</a>
 <br>
