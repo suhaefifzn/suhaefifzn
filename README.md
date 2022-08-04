@@ -26,7 +26,7 @@ const projects: ['Portfolio V2', 'Discord Bot', 'To Do App'];
 ```
 
 <br>
-Second account <a href="https://github.com/suhaefi" target="_blank">@suhaefi</a>
+Second account <a href="https://github.com/suhaefi">@suhaefi</a>
 <br>
-Image by <a href="https://www.zerochan.net/2409076" target="_blank">Izumi Sai</a>.
+Image by <a href="https://www.zerochan.net/2409076">Izumi Sai</a>.
 
