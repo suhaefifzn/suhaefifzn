@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://static.zerochan.net/Blake.Belladonna.full.2409076.png" alt="Blake Belladonna From RWBY Anime" width="280" > 
+<img align="left" src="https://static.zerochan.net/Blake.Belladonna.full.2409076.png" alt="Blake Belladonna From RWBY Anime" width="300" > 
 
 ```ruby
 suhaefifzn@github
