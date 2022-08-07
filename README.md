@@ -7,8 +7,8 @@
 ```ruby
 suhaefifzn@github
 -------------------------
-OS: Ubuntu 22.04.1 LTS x86_64
-Shell: bash 5.1.16
+OS: Windows 10
+Shell: Default (CMD)
 Pronouns: He/Him
 Location: Indonesia
 Languages: HTML, CSS
