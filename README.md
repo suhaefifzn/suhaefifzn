@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://lh3.googleusercontent.com/JSOzIU9F3liJRHuZTehqTkBjZBqXFaHv7DQ1gn0r0DgiBFRykUVyIBBowIB7tEmlO7M=w2400" alt="Kanna Hashimoto by Suhaefi Fauzian" width="290" > 
+<img align="left" src="https://lh3.googleusercontent.com/JSOzIU9F3liJRHuZTehqTkBjZBqXFaHv7DQ1gn0r0DgiBFRykUVyIBBowIB7tEmlO7M=w2400" alt="Kanna Hashimoto by Suhaefi Fauzian" width="320" > 
 
 ```ruby
 suhaefifzn@github
