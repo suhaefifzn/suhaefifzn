@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://static.zerochan.net/Blake.Belladonna.full.2409076.png" alt="Blake Belladonna From RWBY Anime" width="290" > 
+<img align="left" src="https://lh3.googleusercontent.com/JSOzIU9F3liJRHuZTehqTkBjZBqXFaHv7DQ1gn0r0DgiBFRykUVyIBBowIB7tEmlO7M=w2400" alt="Kanna Hashimoto by Suhaefi Fauzian" width="290" > 
 
 ```ruby
 suhaefifzn@github
@@ -27,5 +27,5 @@ const projects: ['Portfolio V2', 'Discord Bot', 'To Do App'];
 <br>
 Second account <a href="https://github.com/suhaefi">@suhaefi</a>
 <br>
-Image by <a href="https://www.zerochan.net/2409076">Izumi Sai</a>.
+Image by me.
 
