@@ -21,7 +21,7 @@ Hobbies: Watch Anime, Read Novel,
 </p>
 
 ```javascript
-const projects: ['Portfolio V2', 'Discord Bot', 'To Do App'];
+const projects: ['Discord Bot'];
 ```
 
 <br>
