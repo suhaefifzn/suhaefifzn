@@ -23,5 +23,5 @@ Learning: JavaScript, Node.js, GitHub
 const projects: ['Discord Bot', 'Movie Finder Website'];
 ```
 <br>
-Image of Kanna Hashimoto by me.
+Image: Kanna Hashimoto by me.
 
