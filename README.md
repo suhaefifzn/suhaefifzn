@@ -2,15 +2,16 @@
 > neofetch
 ```
 
-```ruby
+```javascript
 suhaefifzn@github
 -------------------------
 OS: Windows 10
 Pronouns: He/Him
-Language: Indonesia
+Language: Bahasa
 
 Focus: Web Development
-Learning: Node.js, MongoDB, GitHub
+Interest: JavaScript
+Learning: Node.JS, Hapi, GitHub
 ```
 
 <p>
