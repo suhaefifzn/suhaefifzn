@@ -11,5 +11,5 @@ Language: Bahasa
 
 Focus: Web Development
 Interest: JavaScript
-Learning: Node.JS, Hapi, GitHub
+Learning: Node.js, Hapi, GitHub
 ```
