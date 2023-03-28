@@ -13,5 +13,9 @@ Focus: Web Development
 Interest: JavaScript
 Learning: Node.js, Hapi, GitHub
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaefifzn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suhaefifzn&repo=open-music-submission&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,nodejs,postgres,postman,vscode,github" />
+  </a>
+</p>
+
