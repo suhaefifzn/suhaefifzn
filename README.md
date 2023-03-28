@@ -13,3 +13,4 @@ Focus: Web Development
 Interest: JavaScript
 Learning: Node.js, Hapi, GitHub
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaefifzn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
