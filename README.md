@@ -15,7 +15,7 @@ Learning: Node.js, Hapi, GitHub
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,nodejs,postgres,postman,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,postman,vscode,github" />
   </a>
 </p>
 
