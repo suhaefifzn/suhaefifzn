@@ -5,7 +5,7 @@
 ```javascript
 suhaefifzn@github
 -------------------------
-OS: Windows 10
+OS: Windows 10, Fedora
 Pronouns: He/Him
 Language: Bahasa
 
