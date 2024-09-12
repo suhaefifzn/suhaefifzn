@@ -1,21 +1,16 @@
-```bash
-> neofetch
-```
-
 ```javascript
 suhaefifzn@github
--------------------------
-OS: Windows 10
+----------------------------
+OS: Windows 11 and Ubuntu 24
 Pronouns: He/Him
-Language: Bahasa
+Language: Indonesian
 
 Focus: Web Development
-Interest: JavaScript
-Learn: MERN Stack (Express.js)
+Learning: MERN Stack
 ```
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,postman,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,postman,vscode" />
   </a>
 </p>
 
