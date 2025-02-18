@@ -1,16 +1,13 @@
 ```javascript
 suhaefifzn@github
 ----------------------------
-OS: Windows 11 and Ubuntu 24
+OS: Windows 11 and Ubuntu
 Pronouns: He/Him
-Language: Indonesian
-
+Language: Bahasa Indonesia
 Focus: Web Development
-Learning: MERN Stack
 ```
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,nodejs,php,laravel,mysql,postgresql,github,postman,vscode" />
   </a>
 </p>
-
